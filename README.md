@@ -8,8 +8,8 @@ This repository contains practical implementations, assignments, and experiments
 
 | Attribute | Details |
 | :--- | :--- |
-| **Name** | Rudrakshi Bhandekar |
-| **PRN** | 24070521012 |
+| **Name** | Atharv Lulekar |
+| **PRN** | 24070521036 |
 | **Batch** | A1 |
 | **Semester** | V |
 | **Course** | Compiler Construction Laboratory |
